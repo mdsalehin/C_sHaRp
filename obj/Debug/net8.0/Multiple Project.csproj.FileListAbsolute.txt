@@ -1,0 +1,15 @@
+D:\C#.NET\Multiple Project\bin\Debug\net8.0\Multiple Project.exe
+D:\C#.NET\Multiple Project\bin\Debug\net8.0\Multiple Project.deps.json
+D:\C#.NET\Multiple Project\bin\Debug\net8.0\Multiple Project.runtimeconfig.json
+D:\C#.NET\Multiple Project\bin\Debug\net8.0\Multiple Project.dll
+D:\C#.NET\Multiple Project\bin\Debug\net8.0\Multiple Project.pdb
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.AssemblyInfoInputs.cache
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.AssemblyInfo.cs
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.csproj.CoreCompileInputs.cache
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.sourcelink.json
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.dll
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\refint\Multiple Project.dll
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.pdb
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\Multiple Project.genruntimeconfig.cache
+D:\C#.NET\Multiple Project\obj\Debug\net8.0\ref\Multiple Project.dll
