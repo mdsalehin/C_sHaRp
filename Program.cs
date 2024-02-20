@@ -27,32 +27,8 @@ using System;
 
 */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//Bio Second
 using System;
-
-    
 class Bio{
     public static void Main( string[] arg)
     {
