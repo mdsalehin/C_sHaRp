@@ -73,8 +73,12 @@ class Variable{
         Console.WriteLine(var);
         Console.WriteLine(var);
 
-        
 
+        Console.WriteLine("Now Using Camel Case");
+
+        string CamelCase;
+        CamelCase = "CamelCASE using Max Leangth OF word of VARIABLE";
+        Console.WriteLine(CamelCase);
 
     }
 }
