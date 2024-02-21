@@ -28,12 +28,24 @@ using System;
 
 
 //My Second Program
-using System;
+/*using System;
 class Bio{
     public static void Main( string[] arg)
     {
         Console.WriteLine("MY Name is Md Salahin");
         Console.WriteLine("Now I am learning C# Programming");
         Console.WriteLine("I am passionate for best backend Developer");    
+    }
+}*/
+
+//My Third Program
+
+class Third{
+    public static void Main(string[] arg)
+    {
+       System.Console.Write("This is all about New line using BackSlash N \n");
+
+       System.Console.Write("Dublicated from pervious\n this This is all about New line using BackSlash N ");
+
     }
 }
