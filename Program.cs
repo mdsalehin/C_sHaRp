@@ -45,7 +45,8 @@ class Third{
     {
        System.Console.Write("This is all about New line using BackSlash N \n");
 
-       System.Console.Write("Dublicated from pervious\n this This is all about New line using BackSlash N ");
+       System.Console.Write("Duplicate from pervious\n this This is all about New line using BackSlash N ");
+
 
     }
 }
