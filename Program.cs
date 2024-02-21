@@ -13,6 +13,8 @@ then we use Console.WriteLine*/
 
 // My fist Program
 using System;
+using System.Reflection.Metadata;
+using System.Reflection.Metadata.Ecma335;
 /*
     class Need{
     public static void Main(string[] args)
@@ -50,3 +52,22 @@ class Bio{
 
 //My Fourth Program
 
+// VariablesEncoder and deta type
+
+using System;
+
+class Variable{
+    public static void Main(string[] arg)
+    {
+        Console.WriteLine("This is For Variables");
+
+        string var;
+        var = "Hello i am Md Salehin.";
+        
+        Console.WriteLine(var);
+        Console.WriteLine(var);
+        Console.WriteLine(var);
+        
+
+    }
+}
