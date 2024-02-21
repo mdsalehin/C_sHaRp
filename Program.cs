@@ -51,7 +51,6 @@ class Bio{
 }*/
 
 //My Fourth Program
-
 // VariablesEncoder and deta type
 
 using System;
@@ -67,7 +66,15 @@ class Variable{
         Console.WriteLine(var);
         Console.WriteLine(var);
         Console.WriteLine(var);
+
+        var = "Changing any time varibale like thiss.-->>Now my name is MS7";
+
+        Console.WriteLine(var);
+        Console.WriteLine(var);
+        Console.WriteLine(var);
+
         
+
 
     }
 }
