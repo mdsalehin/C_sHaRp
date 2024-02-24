@@ -13,6 +13,7 @@ then we use Console.WriteLine*/
 
 // My fist Program
 using System;
+using System.Linq.Expressions;
 using System.Reflection.Metadata;
 using System.Reflection.Metadata.Ecma335;
 /*
@@ -53,6 +54,7 @@ class Bio{
 //My Fourth Program
 // VariablesEncoder and deta type
 
+/*
 using System;
 
 class Variable{
@@ -94,3 +96,41 @@ class Variable{
 
     }
 }
+*/
+
+// Assignment - 2
+
+using System;
+
+class Assignment{
+    public static void Main(string[] arg)
+    {
+        string Name = "Apple Iphone";
+        double price = 320.5;
+        string category = "smart phone";
+        bool available = true;
+        int sold = 5;
+
+        Console.WriteLine(Name);
+        Console.WriteLine(price);
+        Console.WriteLine($"${price}"); 
+        Console.WriteLine(category);
+        Console.WriteLine(available);
+        Console.WriteLine(sold);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
