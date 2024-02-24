@@ -1,4 +1,4 @@
-﻿// constant and multiple variables
+// constant and multiple variables
 using System;
 class Constant
 {
