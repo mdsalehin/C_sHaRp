@@ -19,7 +19,7 @@ using System.Reflection.Metadata.Ecma335;
     class Need{
     public static void Main(string[] args)
         {
-            // System.Console.WriteLine(123);
+             System.Console.WriteLine(123);
            Console.WriteLine("This is my first C# Program");
            Console.WriteLine("so now i am adding git");
 
@@ -75,19 +75,22 @@ class Variable{
 
 
         Console.WriteLine("Now Using Camel Case");
-
         string CamelCase;
         CamelCase = "CamelCASE using Max Leangth OF word of VARIABLE";
         Console.WriteLine(CamelCase);
 
 
         Console.WriteLine("\n Now for Dynamic Intialization OF Variable");
-        Console.WriteLine("Variable declear and initializtion akshate aytake ke dynamic intialization bola hoi")
+        Console.WriteLine("Variable declear and initializtion akshate aytake ke dynamic intialization bola hoi");
         string DynamicInitialization = "\n Declear this is called Dynamic Variable\n so this is in the same line thats it";
         Console.WriteLine(DynamicInitialization);
 
-
-
+        double gpa = 3.60;
+        Console.WriteLine(gpa);
+        bool isHePassed = true;
+        Console.WriteLine(isHePassed);
+        char storeChar = 'S';
+        Console.WriteLine(storeChar);
 
     }
 }
