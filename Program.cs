@@ -80,5 +80,10 @@ class Variable{
         CamelCase = "CamelCASE using Max Leangth OF word of VARIABLE";
         Console.WriteLine(CamelCase);
 
+
+        Console.WriteLine("\n Now for Dynamic Intialization OF Variable");
+
+        string DynamicInitialization = "\n Declear this is called Dynamic Variable\n so this is in the same line thats it";
+        Console.WriteLine(DynamicInitialization);
     }
 }
