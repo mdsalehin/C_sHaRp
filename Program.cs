@@ -1,40 +1,99 @@
-﻿// constant and multiple variables
+﻿﻿/*dotnet new
+dotnet new console
+dotnet run*/
+
+
+﻿// See https://aka.ms/new-console-template for more information
+// Console.WriteLine("Hello, World!");
+
+
+/*If We declear this we don need to use 
+System.Console.WriteLine
+then we use Console.WriteLine*/
+
+// My fist Program
 using System;
-class Constant
-{
+using System.Linq.Expressions;
+using System.Reflection.Metadata;
+using System.Reflection.Metadata.Ecma335;
+/*
+    class Need{
     public static void Main(string[] args)
+        {
+             System.Console.WriteLine(123);
+           Console.WriteLine("This is my first C# Program");
+           Console.WriteLine("so now i am adding git");
+
+        }
+    
+}
+*/
+
+
+//My Second Program
+/*using System;
+class Bio{
+    public static void Main( string[] arg)
     {
-        string University = "Bangladesh University Of Business And Technology";
-        Console.WriteLine(University);
+        Console.WriteLine("MY Name is Md Salahin");
+        Console.WriteLine("Now I am learning C# Programming");
+        Console.WriteLine("I am passionate for best backend Developer");    
+    }
+}*/
 
-        Console.WriteLine("\n");
+//My Third Program
+
+/*class Third{
+    public static void Main(string[] arg)
+    {
+       System.Console.Write("This is all about New line using BackSlash N \n");
+       System.Console.Write("Duplicate from pervious\n this This is all about New line using BackSlash N ");
+    }
+}*/
+
+//My Fourth Program
+// VariablesEncoder and deta type
+
+/*
+using System;
+
+class Variable{
+    public static void Main(string[] arg)
+    {
+        Console.WriteLine("This is For Variables");
+
+        string var;
+        var = "Hello i am Md Salehin.";
         
-        Console.WriteLine("Now I want to chage My University Name");
-        University = "Mirpur Bangla school\n";
-        Console.WriteLine(University);
-        
-        Console.WriteLine("Const Variable\n");
+        Console.WriteLine(var);
+        Console.WriteLine(var);
+        Console.WriteLine(var);
 
-        const string IdontWantTocHange = "This is i don't want to change so this is the power of const variable\n";
-        Console.WriteLine(IdontWantTocHange);
+        var = "Changing any time varibale like thiss.-->>Now my name is MS7";
+
+        Console.WriteLine(var);
+        Console.WriteLine(var);
+        Console.WriteLine(var);
 
 
+        Console.WriteLine("Now Using Camel Case");
+        string CamelCase;
+        CamelCase = "CamelCASE using Max Leangth OF word of VARIABLE";
+        Console.WriteLine(CamelCase);
 
-         Console.WriteLine("Now for Multiple  Variable\n");
 
-                int num1,num2,num3;
-                num1=10;
-                num2=10;
-                num3=10;
-                Console.WriteLine(num1);
-                Console.WriteLine(num2);
-                Console.WriteLine(num3);
+        Console.WriteLine("\n Now for Dynamic Intialization OF Variable");
+        Console.WriteLine("Variable declear and initializtion akshate aytake ke dynamic intialization bola hoi");
+        string DynamicInitialization = "\n Declear this is called Dynamic Variable\n so this is in the same line thats it";
+        Console.WriteLine(DynamicInitialization);
 
-        Console.WriteLine("another Process of declare the same value");
-                num1=num2=num3=10;
-                Console.WriteLine(num1);
-                Console.WriteLine(num2);
-                Console.WriteLine(num3);
+        double gpa = 3.60;
+        Console.WriteLine(gpa);
+        bool isHePassed = true;
+        Console.WriteLine(isHePassed);
+        char storeChar = 'S';
+        Console.WriteLine(storeChar);
 
     }
 }
+*/
