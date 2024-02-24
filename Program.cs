@@ -82,8 +82,12 @@ class Variable{
 
 
         Console.WriteLine("\n Now for Dynamic Intialization OF Variable");
-
+        Console.WriteLine("Variable declear and initializtion akshate aytake ke dynamic intialization bola hoi")
         string DynamicInitialization = "\n Declear this is called Dynamic Variable\n so this is in the same line thats it";
         Console.WriteLine(DynamicInitialization);
+
+
+
+
     }
 }
